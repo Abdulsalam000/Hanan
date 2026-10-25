@@ -1,0 +1,4 @@
+Android Studio project (WebView) for Hanan Accounts.
+1) Install Android Studio (free). 2) File > Open > choose this HananAccounts folder. 3) Wait for Gradle sync.
+4) Build > Build Bundle(s)/APK(s) > Build APK(s). 5) The APK is in app/build/outputs/apk/debug/app-debug.apk. Copy it to the phone and install (allow unknown sources).
+The program is app/src/main/assets/index.html. Replace it to update the app.
